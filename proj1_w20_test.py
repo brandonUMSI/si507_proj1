@@ -2,7 +2,6 @@ import unittest
 import json
 import proj1_w20 as proj1
 
-
 ####################
 ###### Part 1 ######
 ####################
